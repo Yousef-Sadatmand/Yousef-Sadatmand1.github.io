@@ -11,5 +11,5 @@
 ### Education
 - Data Science Diploma
   - BrainStation - 2023
--  Microsoft Certified: Power BI Data Analyst Associate
-  - 2022    
+- Power BI Data Analyst Associate
+    - Microsoft Certified: 2022 - Valid until March 20, 2025    
